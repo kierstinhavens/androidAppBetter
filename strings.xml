@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestProgram3</string>
+    <string name="submitButton">Add Contact</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="phoneInput">Phone Number</string>
+    <string name="emailInput">Email Address</string>
+    <string name="command">Contact Information:</string>
+    <string name="firstNameHint">First Name</string>
+    <string name="lastNameHint">Last Name</string>
+    <string name="emailHint">Email Address</string>
+    <string name="phoneHint">Phone Number</string>
+    <string name="image1">Image</string>
+    <string name="contactAdded">The Following Contact Information Has Been Added:</string>
+</resources>
